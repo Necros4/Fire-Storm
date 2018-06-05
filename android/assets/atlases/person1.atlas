@@ -1,0 +1,41 @@
+
+person1.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+per1
+  rotate: false
+  xy: 28, 3
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+per2
+  rotate: false
+  xy: 2, 2
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+per3
+  rotate: false
+  xy: 54, 3
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+per4
+  rotate: false
+  xy: 80, 3
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+per5
+  rotate: false
+  xy: 106, 3
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1

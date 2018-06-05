@@ -1,0 +1,118 @@
+
+person8.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+t1
+  rotate: false
+  xy: 2, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t10
+  rotate: false
+  xy: 646, 3
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+t11
+  rotate: false
+  xy: 324, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t12
+  rotate: false
+  xy: 370, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t13
+  rotate: false
+  xy: 416, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t14
+  rotate: false
+  xy: 462, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t15
+  rotate: false
+  xy: 508, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t16
+  rotate: false
+  xy: 554, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 48, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 94, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 140, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 186, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t6
+  rotate: false
+  xy: 232, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t7
+  rotate: false
+  xy: 278, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+t8
+  rotate: false
+  xy: 600, 3
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+t9
+  rotate: false
+  xy: 692, 5
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1

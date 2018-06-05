@@ -1,0 +1,90 @@
+
+person2.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+flashanim1
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim10
+  rotate: false
+  xy: 470, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim11
+  rotate: false
+  xy: 522, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim12
+  rotate: false
+  xy: 574, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim2
+  rotate: false
+  xy: 54, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim3
+  rotate: false
+  xy: 106, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim4
+  rotate: false
+  xy: 158, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim5
+  rotate: false
+  xy: 210, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim6
+  rotate: false
+  xy: 262, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim7
+  rotate: false
+  xy: 314, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim8
+  rotate: false
+  xy: 366, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flashanim9
+  rotate: false
+  xy: 418, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

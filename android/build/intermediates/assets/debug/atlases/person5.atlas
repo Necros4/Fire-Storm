@@ -1,0 +1,34 @@
+
+person5.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sor1
+  rotate: false
+  xy: 2, 2
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+sor2
+  rotate: false
+  xy: 40, 2
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+sor3
+  rotate: false
+  xy: 78, 2
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+sor4
+  rotate: false
+  xy: 115, 2
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1

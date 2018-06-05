@@ -1,0 +1,111 @@
+
+person7.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+t1
+  rotate: false
+  xy: 2, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+t10
+  rotate: false
+  xy: 142, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+t11
+  rotate: false
+  xy: 177, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+t12
+  rotate: false
+  xy: 212, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+t13
+  rotate: false
+  xy: 453, 2
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+t14
+  rotate: false
+  xy: 487, 2
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+t15
+  rotate: false
+  xy: 247, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 37, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 282, 2
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 316, 2
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 72, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+t6
+  rotate: false
+  xy: 350, 3
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+t7
+  rotate: false
+  xy: 107, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+t8
+  rotate: false
+  xy: 385, 2
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+t9
+  rotate: false
+  xy: 419, 2
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1

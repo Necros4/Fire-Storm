@@ -1,0 +1,34 @@
+
+dew.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+t1
+  rotate: false
+  xy: 2, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 20, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 20, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 38, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1

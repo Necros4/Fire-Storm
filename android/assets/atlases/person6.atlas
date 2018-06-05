@@ -1,0 +1,41 @@
+
+person6.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+n1
+  rotate: false
+  xy: 2, 2
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+n2
+  rotate: false
+  xy: 47, 2
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+n3
+  rotate: false
+  xy: 92, 2
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+n4
+  rotate: false
+  xy: 182, 2
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+n5
+  rotate: false
+  xy: 137, 2
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
